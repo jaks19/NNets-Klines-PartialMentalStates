@@ -1,0 +1,79 @@
+color - color of item
+ 0: white
+ 1: red
+ 2: blue
+ 3: yellow
+ 4: green
+ 5: orange
+ 6: brown
+ 7: black
+
+shape - shape of item
+ 0: rounded,
+ 1: rectangular,
+ 2: pointed,
+ 3: null,
+ 4: flat,
+ 5: oblong,
+ 6: irregular
+
+texture - what is the texture of the surface
+ 0: smooth
+ 1: rough
+ 2: sticky
+ 3: prickly
+
+texture inside - what is the texture when cut
+ 0: smooth
+ 1: rough
+ 2: sticky
+ 3: prickly
+
+size - relative size of item
+ 0: < golf
+ 1: < apple
+ 2: < football
+ 3: < table
+
+weight - relative weight of item
+ 0: < feather
+ 1: < apple
+ 2: < pumpkin
+ 3: < table
+
+hard/malleable - is item hard or malleable to the touch
+ 0: hard
+ 1: malleable
+
+inside hard/malleable - is it hard or malleable inside to the touch
+ 0: hard
+ 1: malleable
+
+dry/wet - is the surface dry or wet
+ 0: dry
+ 1: wet
+
+odor - how does it smell
+ 0: none
+ 1: attractive
+ 2: pungent
+inside dry/wet - is the inside dry or wet
+ 0: inside dry
+ 1: inside wet
+
+
+
+
+
+full/empty - is it full or empty when cut
+ 0: full
+ 1: empty
+
+uni/more - does it usually appear alone or in groups
+ 0: uni
+ 1: more
+
+
+inedible/edible - can it be eaten
+ 0: inedible
+ 1: edible
